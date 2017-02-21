@@ -1,5 +1,3 @@
-# byebye-zube-ad
-
 How To Use
 ===============
 
